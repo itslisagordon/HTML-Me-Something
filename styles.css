@@ -14,8 +14,6 @@ body {
 
 h1 {
 	color: black;
-	/* font-family: 'Galada', cursive; */
-	/* font-family: 'Oswald', sans-serif; */
 	font-family: 'Cinzel', serif;
 	margin: 50px auto;
 	font-size: 45px;
@@ -51,7 +49,6 @@ p {
 	margin-left: -2.5em;
 	margin-right: auto;
 	box-shadow: 5px 5px 1em 3px;
-	/* margin-bottom: 20px; */
 	color:black;
 }
 
