@@ -15,7 +15,8 @@ body {
 h1 {
 	color: black;
 	/* font-family: 'Galada', cursive; */
-	font-family: 'Oswald', sans-serif;
+	/* font-family: 'Oswald', sans-serif; */
+	font-family: 'Cinzel', serif;
 	margin: 50px auto;
 	font-size: 45px;
 }
@@ -25,7 +26,7 @@ h2 {
 	box-shadow: 5px 5px 1em 3px;
 	padding-top: .1%;
 	background:rgb(125, 143, 135);
-	color: black
+	color: black;
 	margin: 20px auto;
 	font-family: 'Cinzel', serif;
 	font-size: 40px;
@@ -63,4 +64,9 @@ p {
 .links {
 	font-family: 'Cinzel', serif;
 	color: rgb(70, 43, 73);
+}
+
+#main-footer {
+	background-color: rgb(81, 92, 88);
+	box-shadow: 5px 5px 1em 3px;
 }
